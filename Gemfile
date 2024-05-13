@@ -79,3 +79,6 @@ end
 gem "devise", "~> 4.9"
 gem 'devise-jwt'
 gem "devise_invitable", "~> 2.0.0"
+
+# Twilio
+gem 'twilio-ruby', '~> 6.8.2'
